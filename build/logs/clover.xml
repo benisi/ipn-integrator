@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1590636439">
+  <project timestamp="1590636439">
+    <package name="Workaholic\IpnIntegrator\Providers">
+      <file name="C:\Users\Gloo-SE-5\Desktop\my projects\test_package\packages\workaholic\ipnIntegrator\src\Providers\IpnServiceProvider.php">
+        <class name="Workaholic\IpnIntegrator\Providers\IpnServiceProvider" namespace="Workaholic\IpnIntegrator\Providers">
+          <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
+        </class>
+        <line num="7" type="stmt" count="0"/>
+        <line num="9" type="method" name="boot" visibility="public" complexity="1" crap="1" count="2"/>
+        <line num="11" type="stmt" count="2"/>
+        <line num="13" type="method" name="register" visibility="public" complexity="1" crap="1" count="2"/>
+        <line num="15" type="stmt" count="2"/>
+        <line num="17" type="stmt" count="0"/>
+        <metrics loc="16" ncloc="16" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="2" elements="5" coveredelements="4"/>
+      </file>
+    </package>
+    <metrics files="1" loc="16" ncloc="16" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="2" elements="5" coveredelements="4"/>
+  </project>
+</coverage>
